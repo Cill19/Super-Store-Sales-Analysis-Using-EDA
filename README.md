@@ -38,7 +38,7 @@ Dataset berisi transaksi penjualan superstore dengan informasi seperti:
 - NumPy  
 - Matplotlib  
 - Seaborn  
-- Plotly (opsional, untuk visualisasi interaktif)  
+- Plotly  
 
 ### 🔹 Tools  
 - Google Colab / Jupyter Notebook  
@@ -47,10 +47,41 @@ Dataset berisi transaksi penjualan superstore dengan informasi seperti:
 
 ---
 
-## 📈 Key Insights (contoh hasil analisis)  
-- Beberapa kategori produk memberikan **penjualan tinggi namun profit rendah**.  
-- Diskon yang terlalu besar justru menurunkan profitabilitas.  
-- Wilayah tertentu menunjukkan **potensi peningkatan strategi pemasaran**.  
+## 📈 Key Insights & Visualizations  
+
+### 🔹 Profitabilitas Produk  
+- **Top 3 Produk Merugi**: Sub-kategori tertentu menunjukkan kerugian terbesar.  
+- **Top 3 Produk Untung**: Produk tertentu menjadi penyumbang profit terbesar.  
+
+*(Visualisasi: Bar chart kerugian & keuntungan produk)*  
+
+---
+
+### 🔹 Profit Berdasarkan Region  
+- Profit tidak merata antar region.  
+- Ada region yang lebih dominan dalam memberikan keuntungan kumulatif.  
+
+*(Visualisasi: Bar chart total profit per region)*  
+
+---
+
+### 🔹 Profit Berdasarkan State  
+- **Top 10 States**: Penyumbang keuntungan terbesar.  
+- **Bottom 10 States**: Mengalami kerugian paling besar.  
+
+*(Visualisasi: Bar chart top & bottom 10 states)*  
+
+---
+
+## ✅ Summary  
+- Beberapa produk memberikan penjualan tinggi namun **profit rendah**.  
+- Diskon berlebihan justru **mengurangi profitabilitas**.  
+- Tidak semua region dan state memberikan kontribusi positif terhadap profit.  
+
+**Rekomendasi:**  
+1. Optimalkan strategi diskon agar tidak merugikan.  
+2. Fokus pada produk dengan margin tinggi.  
+3. Tingkatkan strategi pemasaran pada region dan state yang berpotensi.  
 
 ---
 
