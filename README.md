@@ -53,7 +53,12 @@ Dataset berisi transaksi penjualan superstore dengan informasi seperti:
 - **Top 3 Produk Merugi**: Sub-kategori tertentu menunjukkan kerugian terbesar.  
 - **Top 3 Produk Untung**: Produk tertentu menjadi penyumbang profit terbesar.  
 
-*(Visualisasi: Bar chart kerugian & keuntungan produk)*  
+<img width="1606" height="702" alt="image" src="https://github.com/user-attachments/assets/86204abd-6ce3-4343-8ec6-940793df60e3" />
+<img width="984" height="584" alt="image" src="https://github.com/user-attachments/assets/591d6d5c-8b8e-484d-832c-c9bc7a6f6652" />
+<img width="1183" height="684" alt="image" src="https://github.com/user-attachments/assets/91e01790-70c0-43f2-b3b3-eb806d51c0c9" />
+<img width="1183" height="684" alt="image" src="https://github.com/user-attachments/assets/2aebf00d-0152-4a08-af3d-30fa55e50c7c" />
+
+
 
 ---
 
