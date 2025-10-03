@@ -19,6 +19,8 @@ Melalui **Exploratory Data Analysis (EDA)**, proyek ini bertujuan untuk:
 ---
 
 ## 📊 Dataset  
+<img width="1919" height="805" alt="image" src="https://github.com/user-attachments/assets/c090e488-6a38-4963-afd3-ee73592374f5" />
+
 Dataset berisi transaksi penjualan superstore dengan informasi seperti:  
 - **Order Details**: Order ID, Order Date, Ship Date, Ship Mode  
 - **Customer Info**: Customer ID, Segment, Region  
